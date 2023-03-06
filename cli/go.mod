@@ -42,13 +42,12 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
 	google.golang.org/grpc v1.46.2
-	google.golang.org/protobuf v1.28.0
 	gotest.tools/v3 v3.3.0
 	muzzammil.xyz/jsonc v1.0.0
 )
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
@@ -84,6 +83,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd // indirect
+	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
